@@ -33,29 +33,29 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Indian Institute of Technology Bombay",
+      "area": "Ph.D in Computer Vision",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2026",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Indian Institute of Technology Kharagpur",
+      "area": "M.Tech. in Visual Information Processing and Embedded Systems",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2017",
       "gpa": null,
       "courses": []
     },
     {
       "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "area": "B.Tech. in Electronics and Communication Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     }
