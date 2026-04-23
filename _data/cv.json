@@ -1,10 +1,11 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
+    "name": "Sanchar Palit",
     "email": "none@example.org",
     "phone": "",
     "website": "https://sancharpalit.github.io",
-    "summary": "Currently Research Scholar at IIT Bombay. Short biography for the left-hand sidebar",
+    "summary": "Ph.D. Research Scholar in 3D Computer Vision, Low-Level Vision, Image Super-Resolution, Video Frame Interpolation,
+    Event-based Vision, Bayesian Learning, and Stochastic Modeling in Computer Vision",
     "location": {
       "address": "",
       "postalCode": "",
@@ -51,7 +52,7 @@
       "courses": []
     },
     {
-      "institution": "GitHub University",
+      "institution": "Jalpaiguri Government Engineering College",
       "area": "B.Tech. in Electronics and Communication Engineering",
       "studyType": "",
       "startDate": "",
@@ -69,28 +70,28 @@
       "name": "Paper Title Number 1",
       "publisher": "Journal 1",
       "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
+      "website": "https://sancharpalit.github.io/files/paper1.pdf",
       "summary": "This paper is about the number 1. The number 2 is left for future work."
     },
     {
       "name": "Paper Title Number 2",
       "publisher": "Journal 1",
       "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
+      "website": "https://sancharpalit.github.io/files/paper2.pdf",
       "summary": "This paper is about the number 2. The number 3 is left for future work."
     },
     {
       "name": "Paper Title Number 3",
       "publisher": "Journal 1",
       "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
+      "website": "https://sancharpalit.github.io/files/paper3.pdf",
       "summary": "This paper is about the number 3. The number 4 is left for future work."
     },
     {
       "name": "Paper Title Number 4",
       "publisher": "GitHub Journal of Bugs",
       "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
+      "website": "https://sancharpalit.github.io/files/paper3.pdf",
       "summary": "This paper is about fixing template issue #693."
     }
   ],
