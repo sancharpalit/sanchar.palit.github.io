@@ -3,8 +3,8 @@
     "name": "Your Sidebar Name",
     "email": "none@example.org",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://sancharpalit.github.io",
+    "summary": "Currently Research Scholar at IIT Bombay. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
@@ -25,8 +25,8 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "sancharpalit",
+        "url": "https://github.com/sancharpalit"
       }
     ]
   },
