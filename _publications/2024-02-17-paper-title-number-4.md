@@ -9,5 +9,5 @@ venue: 'Proceedings of the Fifteenth Indian Conference on Computer Vision Graphi
 paperurl: 'https://sancharpalit.github.io/files/paper4.pdf'
 citation: 'Sanchar Palit and Sandika Biswas, "Variational Distribution and Experience Replay for 3D Reconstruction in a Continual Learning Framework", ICVGIP, 2024.'
 ---
-🏆 **Best Paper Award — ICVGIP 2024**
+🏆 
 **<span style="color:red;">Best Paper Award — ICVGIP 2024</span>**
