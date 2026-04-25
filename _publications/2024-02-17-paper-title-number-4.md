@@ -11,4 +11,5 @@ citation: 'Sanchar Palit and Sandika Biswas, "Variational Distribution and Exper
 ---
 🏆 
 **<span style="color:red;">Best Paper Award — ICVGIP 2024</span>**
+
 A continual learning framework for single-image 3D reconstruction that leverages variational latent priors and saliency map-based replay to preserve geometric structure and accurately reconstruct both previously seen and newly learned object classes.
