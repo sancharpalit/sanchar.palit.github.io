@@ -5,29 +5,25 @@ permalink: /awards/
 author_profile: true
 ---
 
-## Academic Achievements
+{% include base_path %}
 
-- **GATE 2017 (Electronics and Communication Engineering)**  
-  Secured **All India Rank 212** among approximately 152,000 candidates.
+<h2>Academic Achievements</h2>
 
-- **B.Tech. Academic Excellence**
-  - Highest GPA in the 3rd Semester: **9.48/10**
-  - Highest GPA in the 7th Semester: **9.81/10**
+<ul>
+<li>GATE 2017: AIR 212 among ~152,000 candidates.</li>
+<li>Highest GPA in 3rd Semester (9.48) and 7th Semester (9.81).</li>
+<li>Teaching Assistant for Probability and Random Variables / Statistical Signal Analysis for eight consecutive offerings.</li>
+</ul>
 
-- **Teaching Assistantship**
-  - Served as Teaching Assistant for **Probability and Random Variables / Statistical Signal Analysis** for **eight consecutive offerings**.
+<h2>NPTEL Certifications</h2>
 
-## NPTEL Certifications
+<ul>
+<li>Discrete-Time Signal Processing (97%, Top Performer)</li>
+<li>Electrical Circuits (95%)</li>
+<li>Probability and Random Variables/Processes (85%)</li>
+<li>Networks and Systems (85%)</li>
+</ul>
 
-- **Discrete-Time Signal Processing** (IIT Kharagpur, 2015)
-  - Score: **97%**
-  - Top Performer
-
-- **Electrical Circuits** (IIT Madras, 2015)
-  - Score: **95%**
-
-- **Probability and Random Variables/Processes** (IIT Kanpur, 2016)
-  - Score: **85%**
-
-- **Networks and Systems** (IIT Madras, 2016)
-  - Score: **85%**
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
